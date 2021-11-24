@@ -9,6 +9,7 @@
 •	Ex1: loading and translating the json and csv file received by the user, sends the data to the allocate class, and outputs the calls allocation  
 
 **Allocation algorithm**
+
 Allocation algorithm is targeted to minimizing passenger wait by three main parameters taken in consideration:
 •	the elevator's speed and the expected time the elevator will travel from floor a to floor b
 •	the elevator's floor range – whether or not a certain elevator can reach the call's source and destination floor
