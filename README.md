@@ -32,6 +32,7 @@ To get the reslut run the simulator Ex1_checker_V1.2_obf.jar
 ```
 java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 ---
+----
 
 ## Smart Elevator UML:
 
