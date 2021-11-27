@@ -2,9 +2,10 @@
 ## Dor Harizi
 ## Yuval Shabt
 ---
-This project gives a response to the The problem of the placement of calls for elevators in a given building, so that the average for making each elevator call will be lower than possible.  
+This project gives a response to the The problem of the placement of calls for elevators in a given building, so that the average for making each elevator call will be lower than possible. 
 
 ---
+
 ## Algorithm features
 
 *	Matching elevator is chosen based on the formula: state of the elevator + the expected time the elevator will travel from floor a to floor b
@@ -29,8 +30,9 @@ python Ex1.py <building_json_file_name> <calls_csv_file_name> <output_file_name>
 To get the reslut run the simulator Ex1_checker_V1.2_obf.jar
 ```
 java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
----
 
+---
+---
 ## Smart Elevator UML:
 
 <p align="center">
@@ -51,4 +53,5 @@ java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 |**Calls_d**|		     |        | 775.8  | 831.1  |	505    |  
 
  *Values were rounded to 1 digit after the decimal point.*    
+ ---
  
