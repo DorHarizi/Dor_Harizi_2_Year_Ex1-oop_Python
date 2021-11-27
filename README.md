@@ -51,6 +51,6 @@ java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 |**Calls_d**|		     |        | 775.8  | 831.1  |	505    |  
 
  *Values were rounded to 1 digit after the decimal point.*
- *- The buildings B1, B2 can be tested only on calls_a* 
+ *The buildings B1, B2 can be tested only on calls_a* 
  
  ---
