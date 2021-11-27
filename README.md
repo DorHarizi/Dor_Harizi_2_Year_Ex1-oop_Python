@@ -55,4 +55,3 @@ java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 
  *Values were rounded to 1 digit after the decimal point.*    
  ```
- 
