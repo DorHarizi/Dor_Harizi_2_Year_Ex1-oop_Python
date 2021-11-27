@@ -1,4 +1,4 @@
-## Assignment 1 - Object Oriented Programming :office: :elevator:
+## Assignment 1 - Object Oriented Programming :
 **Dor Harizi**  
 **Yuval Shabt**
 ---
