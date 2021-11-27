@@ -33,14 +33,14 @@ To get the reslut run the simulator Ex1_checker_V1.2_obf.jar
 java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 ```
 
-```
+---
 ## Smart Elevator UML:
 
 <p align="center">
     <img width="800" height="900" src="https://github.com/DorHarizi/Dor_Harizi_2_Year_Ex1-oop_Python/blob/main/uml.png">
    </p>
    
-```
+---
 ## Here are our results for the avarage waiting time:
    - **The B1...B5 represents each of the buildings we tested.** 
    - **The Calls_a...Calls_d  represents each of the calls scenario we tried.** 
@@ -54,4 +54,5 @@ java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 |**Calls_d**|		     |        | 775.8  | 831.1  |	505    |  
 
  *Values were rounded to 1 digit after the decimal point.*    
- ```
+ 
+ ---
