@@ -1,25 +1,19 @@
-## Assignment 1 - Object Oriented Programming :
+## Elevator Algorithm:
 **Dor Harizi**  
 **Yuval Shabt**
 ---
-The project is about utilizing a building which is composed from a number of elevators and their parameters in the most efficient way for less waiting time of each person.  
-In the project we will receive 2 files, a building file in json format and calls in csv format, calls are composed from few components the main ones are source floor and destination floor. In the algorithm we will try to determine what is the most efficient waiting time solution for the given problem.
-
-Reference to the UML: [ click here](#Smart-Elevator-UML)  
-Reference to how to use: [ click here](#How-to-use)
+This project gives a response to the The problem of the placement of calls for elevators in a given building, so that the average for making each elevator call will be lower than possible.  
 
 ---
-## Elevator Algorithm:
-
-According to a research shown in the sources, it can be seen that zoning has proved to have the best average wait time for each people.
-As a result we decided that our offline algorithm will be deviding the calls into zones and assigning the calls according to the speed of the elevator.
-
 ## Algorithm features
 
 *	Matching elevator is chosen based on the formula: state of the elevator + the expected time the elevator will travel from floor a to floor b
 *	If pickup call happens in the same direction as a previous call it is assigned to the elevator already having this path
 *	Elevator picks up the passengers only in the same direction which minimizes their travel time in case elevator is going way too far in opposite direction
 *	The Elevator's class will automatically create a matrix for each elevator. the matrix will represent the fastest time the elevator will travel from floor a to floor    b, and has a main rule in the allocation system
+
+Reference to the UML: [ click here](#Smart-Elevator-UML)  
+Reference to how to use: [ click here](#How-to-use)
 
 ---
 
