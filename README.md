@@ -41,10 +41,7 @@ java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
    </p>
    
 ---
-## Here are our results for the avarage waiting time:
-   - **The B1...B5 represents each of the buildings we tested.** 
-   - **The Calls_a...Calls_d  represents each of the calls scenario we tried.** 
-   - The buildings B1, and B2 can be tested only on calls_a because this is the only scenario with calls that are in the floor range of these buildings. (-2,10)  
+## Here are our results for the avarage waiting time: 
 
 |           | **B1** | **B2** | **B3** | **B4** | **B5** |
 |-----------|--------|--------|--------|--------|--------|
@@ -53,6 +50,7 @@ java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
 |**Calls_c**|		     |        | 775.8  | 831.1  |	505    |
 |**Calls_d**|		     |        | 775.8  | 831.1  |	505    |  
 
- *Values were rounded to 1 digit after the decimal point.*    
+ *Values were rounded to 1 digit after the decimal point.*
+ *- The buildings B1, B2 can be tested only on calls_a* 
  
  ---
