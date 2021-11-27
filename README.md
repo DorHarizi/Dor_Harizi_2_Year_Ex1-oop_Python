@@ -1,6 +1,6 @@
-## Elevator Algorithm:
-**Dor Harizi**  
-**Yuval Shabt**
+## Elevator Algorithm:                                                                
+# Dor Harizi
+# Yuval Shabt
 ---
 This project gives a response to the The problem of the placement of calls for elevators in a given building, so that the average for making each elevator call will be lower than possible.  
 
