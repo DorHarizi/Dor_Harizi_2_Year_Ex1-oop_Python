@@ -38,7 +38,7 @@ As a result we decided that our offline algorithm will be deviding the calls int
  *Values were rounded to 1 digit after the decimal point.*    
  
 ---
-##Smart Elevator UML:
+## Smart Elevator UML:
 
 <p align="center">
     <img width="800" height="900" src="https://github.com/DorHarizi/Dor_Harizi_2_Year_Ex1-oop_Python/blob/main/uml.png">
