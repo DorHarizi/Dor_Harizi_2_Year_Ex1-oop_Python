@@ -26,13 +26,13 @@ Run the program from the cmd: building file.json , call file.csv, output file.cs
 ```
 python Ex1.py <building_json_file_name> <calls_csv_file_name> <output_file_name>
 ```
+----
 ## Testing jar
 To get the reslut run the simulator Ex1_checker_V1.2_obf.jar
 ```
 java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
+---
 
----
----
 ## Smart Elevator UML:
 
 <p align="center">
