@@ -16,7 +16,28 @@ Reference to the UML: [ click here](#Smart-Elevator-UML)
 Reference to how to use: [ click here](#How-to-use)
 
 ---
+## How to use the program:
+Clone the repository 
+```
+git clone https://github.com/DorHarizi/Dor_Harizi_2_Year_Ex1-oop_Python.git 
+```
+Run the program from the cmd: building file.json , call file.csv, output file.csv 
+```
+python Ex1.py <building_json_file_name> <calls_csv_file_name> <output_file_name>
+```
+## Testing jar
+To get the reslut run the simulator Ex1_checker_V1.2_obf.jar
+```
+java -jar Ex1_checker_V1.2_obf.jar <ID, building.json, calls.csv, out.log>
+---
 
+## Smart Elevator UML:
+
+<p align="center">
+    <img width="800" height="900" src="https://github.com/DorHarizi/Dor_Harizi_2_Year_Ex1-oop_Python/blob/main/uml.png">
+   </p>
+   
+---
 ## Here are our results for the avarage waiting time:
    - **The B1...B5 represents each of the buildings we tested.** 
    - **The Calls_a...Calls_d  represents each of the calls scenario we tried.** 
@@ -31,37 +52,3 @@ Reference to how to use: [ click here](#How-to-use)
 
  *Values were rounded to 1 digit after the decimal point.*    
  
----
-## Smart Elevator UML:
-
-<p align="center">
-    <img width="800" height="900" src="https://github.com/DorHarizi/Dor_Harizi_2_Year_Ex1-oop_Python/blob/main/uml.png">
-   </p>
-   
----
-
-
-## How to use:
-Clone the repository and cd(enter) the folder.
-```
-git clone https://github.com/DorHarizi/Dor_Harizi_2_Year_Ex1-oop_Python.git & cd Dor_Harizi_2_Year_Ex1-oop_Python
-```
-To insert your own building and call files you can use this option
-```
-python Ex1.py <building_json_file_name> <calls_csv_file_name> <output_file_name>
-```
-To use existing building and call files use this command
-```
-python Ex1.py <output_file_name>
-```
-## Testing jar
-In order to test the results run the following
-```
-java -jar Ex1_checker_V1.2_obf.jar <IDs, building, calls, log_out>
-```  
-* `IDs` : at least 1 ID seperated by "," maximum 3.  
-* `building` : the json file representing the building  
-* `calls` : the csv file representing the calls  
-* `log_out` : the output file name   
-
-------
